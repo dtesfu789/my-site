@@ -1,0 +1,141 @@
+/*********************************************Tag Selector*********************************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 75px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  margin: auto 25px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+hr {
+  width: 75px;
+  border: 8px;
+  border-style: none none dotted none;
+  color: #EAF6F6;
+}
+
+/*********************************************Class Selector*********************************************/
+.top_box {
+  background-color: #E0EBE8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle_box {}
+
+.bottom_box {
+background-color: #66BFBF;
+padding: 50px;
+
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.cod {
+  text-decoration: underline;
+}
+
+.dereje-img {
+  width: 50%;
+  height: auto;
+  border-radius: 100%;
+}
+
+.skills_section_infradesign_info {
+  float: left;
+  width: 250px;
+  text-align: center;
+  margin-right: 30px;
+}
+
+.skills_row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.skills_section_webdev_info {
+  float: right;
+  width: 250px;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.skillset-img {
+  width: 32%;
+}
+
+.skills_info {}
+
+.in-touch {
+  display: inline-block;
+  width: 50%;
+  line-height: 2;
+}
+
+.intro {
+  width: 500px;
+  text-align: center;
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.copyright{
+  color: #EAF6F6;
+  padding: 10px;
+}
+.btn{
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 25px;
+  color: #EAF6F6;
+  background-color:#11cdd4;
+  font-family: Montserrat;
+  display: block;
+  margin: auto auto 50px;
+  width: 150px;
+}
+.btn:hover{
+  background-color:#30e3cb;
+}
+
+
+/*********************************************Id Selector*********************************************/
